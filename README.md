@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MoonmoonSamal&label=Profile%20views&color=0e75b6&style=flat" alt="Moonmoon-Samal" /> </p>
 
-- 🌱 I’m currently learning **the art of data Science**
+- 🌱 I’m currently learning **the art of data Analysis**
 - 📫 How to reach me **moonmoonsamal86@gmail.com**
 - 😍Hobbies: Reading novels and drawing illustrations
 - ⚡ Fun facts: I hate Mango juice🥃 and i'm scared of cats🐱
