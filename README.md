@@ -9,8 +9,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/moonmoonsamal/count.svg?" width="250" height="50" />
+  <img src="https://profile-counter.glitch.me/moonmoonsamal/count.svg?" width="400" height="100" />
 </div>
+
 
 
 ###
