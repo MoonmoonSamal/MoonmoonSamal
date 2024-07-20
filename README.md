@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/moonmoonsamal/count.svg?" width="400" height="100" />
+  <img src="https://profile-counter.glitch.me/moonmoonsamal/count.svg?" width="400" height="60" />
 </div>
 
 
