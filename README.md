@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Profile Views 👀</h3>
+<h2 align="center">Profile Views 👀</h2>
 
 ###
 
