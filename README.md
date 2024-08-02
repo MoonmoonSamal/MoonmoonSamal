@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋! I'm Moonmoon Samal, from Odisha</h1>
+<h2 align="center">Hi 👋! I'm Moonmoon Samal, from Odisha</h2>
 
 ###
 
-<h2 align="center">Profile Views 👀</h2>
+<h4 align="center">Profile Views 👀</h4>
 
 ###
 
@@ -11,7 +11,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/moonmoonsamal/count.svg?" width="400" height="60" />
 </div>
-
 
 
 ###
