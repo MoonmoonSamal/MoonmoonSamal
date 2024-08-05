@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moonmoonsamal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=moonmoonsamal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moonmoonsamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=moonmoonsamal&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
@@ -65,9 +65,7 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="38" alt="github logo"  />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="38" alt="canva logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="38" alt="slack logo"  />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="38" alt="anaconda logo"  />
 </div>
 
 ###
@@ -99,5 +97,19 @@
 ###
 
 <p align="center">🚀 Let's connect and collaborate on exciting projects together!</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moonmoonsamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moonmoonsamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moonmoonsamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moonmoonsamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
