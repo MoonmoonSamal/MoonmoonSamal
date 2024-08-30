@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<img align="right" height="152" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif"  />
+<img align="right" height="147" src="https://camo.githubusercontent.com/a90f89ea0526124490ee59efdddc15e00e7bac26c94c1ad427793ef1dc4319c9/68747470733a2f2f6d656469612e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966"  />
 
 ###
 
